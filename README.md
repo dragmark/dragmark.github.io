@@ -1,2 +1,5 @@
-# dragmark.github.io
-DragMark Apps — support and privacy policies
+# DragMark Apps
+
+Public support and privacy pages. No Android application source or signing material.
+
+GitHub Pages: main branch, repository root.
